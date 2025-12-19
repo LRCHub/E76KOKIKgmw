@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "明日があるさ",
+  "base_artist": "Kyu Sakamoto",
+  "createdAt": "2025-12-19T10:58:44.248026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日があるさ",
+      "artist": "Kyu Sakamoto",
+      "has_synced": false,
+      "path": "select/01_明日があるさ_Kyu_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日があるさ (ジョージアで行きましょう編) - Ashita Ga Arusa (Georgia De Ikimashou Hen)",
+      "artist": "Ulfuls",
+      "has_synced": true,
+      "path": "select/02_明日があるさ_(ジョージアで行きましょう編)_-_Ashita_Ga_Arusa_(Georgia_De_Ikimashou_Hen)_Ulfuls.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日があるさ (ジョージアで行きましょう編)",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/03_明日があるさ_(ジョージアで行きましょう編)_ウルフルズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明日があるさ",
+      "artist": "Re:Japan",
+      "has_synced": true,
+      "path": "select/04_明日があるさ_Re_Japan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明日があるさ - ASHITAGA ARUSA",
+      "artist": "Re:Japan",
+      "has_synced": true,
+      "path": "select/05_明日があるさ_-_ASHITAGA_ARUSA_Re_Japan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "明日があるさ（ジョージアで行きましょう編）",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/06_明日があるさ(ジョージアで行きましょう編)_ウルフルズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "明日があるさ - ジョージアで行きましょう編",
+      "artist": "Ulfuls",
+      "has_synced": true,
+      "path": "select/07_明日があるさ_-_ジョージアで行きましょう編_Ulfuls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "明日があるさ",
+      "artist": "坂本九",
+      "has_synced": false,
+      "path": "select/08_明日があるさ_坂本九.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "明日があるさ (ジョージアで行きましょう編) (Hyper dance mix)",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/09_明日があるさ_(ジョージアで行きましょう編)_(Hyper_dance_mix)_ウルフルズ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "明日があるさ",
+      "artist": "Kyu Sakamoto",
+      "has_synced": false,
+      "path": "select/10_明日があるさ_Kyu_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "明日があるさ",
+      "artist": "Re:Japan",
+      "has_synced": false,
+      "path": "select/11_明日があるさ_Re_Japan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "明日があるさ",
+      "artist": "Re:Japan",
+      "has_synced": true,
+      "path": "select/12_明日があるさ_Re_Japan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "明日があるさ(MONO)",
+      "artist": "Kyu Sakamoto",
+      "has_synced": false,
+      "path": "select/13_明日があるさ(MONO)_Kyu_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "明日があるさ - Ashita Ga Arusa",
+      "artist": "Kyu Sakamoto",
+      "has_synced": true,
+      "path": "select/14_明日があるさ_-_Ashita_Ga_Arusa_Kyu_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "明日があるさ(ジョージアで行きましょう編)",
+      "artist": "ウルフルズ",
+      "has_synced": true,
+      "path": "select/15_明日があるさ(ジョージアで行きましょう編)_ウルフルズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日があるさ",
+      "artist": "坂本 九",
+      "has_synced": false,
+      "path": "select/pl_01_明日があるさ_坂本_九.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "明日があるさ",
+      "artist": "坂本 九",
+      "has_synced": false,
+      "path": "select/pl_02_明日があるさ_坂本_九.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "明日があるさ",
+      "artist": "坂本 九",
+      "has_synced": false,
+      "path": "select/pl_03_明日があるさ_坂本_九.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "明日があるさ",
+      "artist": "坂本 九",
+      "has_synced": false,
+      "path": "select/pl_04_明日があるさ_坂本_九.txt"
+    }
+  ]
+}
